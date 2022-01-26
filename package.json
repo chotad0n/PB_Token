@@ -1,0 +1,18 @@
+{
+  "name": "PBToken-Sale",
+  "version": "1.0.0",
+  "description": "PBToken Sale ICO",
+  "main": "truffle-config.js", 
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Pranjal Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.7.0",
+    "lite-server": "^2.3.0"
+  }
+}
