@@ -4,7 +4,7 @@ Version 1.0 2022/1/26
 This repository contains code for the PBToekn ICO project.
 
 ## Overview
-This ICO website allows users to purchase token. It initially was developed using ganache and then was tested on Rinkeby Test Netwrok using geth to get an understanding of how the real blockchain works and the concept of gas.
+This ICO website allows users to purchase token. It initially was developed using ganache and truffle and then was tested on Rinkeby Test Netwrok using geth to get an understanding of how the real blockchain works and the concept of gas.
 
 
 https://user-images.githubusercontent.com/73274912/151138330-00f3ed1b-83fe-463c-8702-78143355382e.mp4
